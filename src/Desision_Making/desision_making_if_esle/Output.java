@@ -1,4 +1,4 @@
-package ifelse;
+package Desision_Making.desision_making_if_esle;
 
 public class Output {
     public static void main(String[] args) {
