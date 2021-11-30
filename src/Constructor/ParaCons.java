@@ -14,6 +14,6 @@ public class ParaCons {
     }
 
     public static void main(String[] args) {
-        ParaCons paraCons = new ParaCons(121,"java");
+        ParaCons paraCons = new ParaCons(121, "java");
     }
 }
